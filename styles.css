@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.container{
+	width: 90%;
+	height: auto;
+	margin:auto;
+	border: 1px solid black;
+}
